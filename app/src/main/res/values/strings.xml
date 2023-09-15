@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MonAppKotlin</string>
+    <string name="welcome_message">Bienvenue dans MonAppKotlin!</string>
+    <string name="button_text">Cliquez-moi</string>
+
+    <string name="second_activity">Nouvelle Page de MonAppKotlin</string>
+    <string name="retour_btn">Retour</string>
+    <string name="suivant_btn">Suivant</string>
+
+</resources>
